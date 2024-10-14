@@ -4,34 +4,176 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d80cd9c8-15fe-405f-a8cb-d74a1987fb0c" name="Changes" comment="" />
+    <list default="true" id="d80cd9c8-15fe-405f-a8cb-d74a1987fb0c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej1/clases/Pila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej1/clases/Pila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej1/main/Ej1Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej1/main/Ej1Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej2/clases/PilaArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej2/clases/PilaArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej2/main/Ej2Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej2/main/Ej2Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej3/clases/Matriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej3/clases/Matriz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej4/main/Ej4Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej4/main/Ej4Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej5/clases/ColeccionSimpleGenerica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej5/clases/ColeccionSimpleGenerica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej6/clases/ListaOrdenada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej6/clases/ListaOrdenada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej6/main/Ej6Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej6/main/Ej6Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej7/interfaces/Operable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej7/interfaces/Operable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej7/test/Ej7Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej7/test/Ej7Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2nNJSXPIHPgbp9SEiZpDGB81iIo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ej1Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ej2Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ej3Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ej4Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ej6Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ej7Test.pruebaDividir.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ej7Test.pruebaError.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ej7Test.pruebaMulti.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ej7Test.pruebaResta.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ej7Test.pruebaSuma.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ej7.test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Ej7Test.pruebaDividir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Genericos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ej7.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ej7.test" />
+      <option name="MAIN_CLASS_NAME" value="ej7.test.Ej7Test" />
+      <option name="METHOD_NAME" value="pruebaDividir" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej7Test.pruebaError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Genericos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ej7.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ej7.test" />
+      <option name="MAIN_CLASS_NAME" value="ej7.test.Ej7Test" />
+      <option name="METHOD_NAME" value="pruebaError" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej7Test.pruebaMulti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Genericos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ej7.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ej7.test" />
+      <option name="MAIN_CLASS_NAME" value="ej7.test.Ej7Test" />
+      <option name="METHOD_NAME" value="pruebaMulti" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej7Test.pruebaResta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Genericos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ej7.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ej7.test" />
+      <option name="MAIN_CLASS_NAME" value="ej7.test.Ej7Test" />
+      <option name="METHOD_NAME" value="pruebaResta" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej7Test.pruebaSuma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Genericos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ej7.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ej7.test" />
+      <option name="MAIN_CLASS_NAME" value="ej7.test.Ej7Test" />
+      <option name="METHOD_NAME" value="pruebaSuma" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Ej7Test.pruebaError" />
+        <item itemvalue="JUnit.Ej7Test.pruebaDividir" />
+        <item itemvalue="JUnit.Ej7Test.pruebaMulti" />
+        <item itemvalue="JUnit.Ej7Test.pruebaResta" />
+        <item itemvalue="JUnit.Ej7Test.pruebaSuma" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,7 +189,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728807606233</updated>
-      <workItem from="1728807607395" duration="7000" />
+      <workItem from="1728807607395" duration="12906000" />
+      <workItem from="1728895135638" duration="7338000" />
+      <workItem from="1728925514730" duration="5317000" />
+      <workItem from="1728930857926" duration="350000" />
+      <workItem from="1728931498895" duration="331000" />
     </task>
     <servers />
   </component>
